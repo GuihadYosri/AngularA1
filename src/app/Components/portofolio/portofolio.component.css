@@ -1,0 +1,35 @@
+p{
+    font-size: 48px;
+    font-weight: 700px;
+    line-height: 56px;
+    color: #2C3E50;
+}
+span{
+    position: absolute;
+    top:840px;
+   padding:20px;
+    font-size: 32px;
+    font-weight: 700px;
+    line-height: 56px;
+    color: #2C3E50;
+  
+}
+span::before{
+    content: "______";
+    padding: 20px;
+}  
+span::after{
+    content: "______";
+    padding: 20px;
+} 
+i{
+    top: 45px;
+    left:123px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    /* padding-top: 20px; */
+    border-radius: 10px;
+    margin: 20px;
+}

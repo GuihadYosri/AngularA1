@@ -1,0 +1,33 @@
+.location{
+    background-color:#2C3E50;
+    width: 100%;
+   padding: 80px;
+}
+h4{
+    font-size: 24px;
+    font-weight: 700px;
+}
+p{
+    font-size: 20px;
+    font-weight: 300px;
+}
+.last{
+    background-color: #1A252F;
+}
+.last p{
+    font-size: 12.8px;
+    font-weight: 400px;
+}
+.icon1{
+    border: 1px solid;
+    border-radius: 50%;
+    border-color: white;
+    background-color: transparent;
+    height: 50px;
+    width: 50px;
+}
+.icon1:hover{
+    background-color: white;
+    color: #2C3E50;
+    cursor: pointer;
+}

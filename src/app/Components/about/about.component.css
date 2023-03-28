@@ -1,0 +1,41 @@
+.about{
+    background-color: #1ABC9C;
+    width: 100%;
+    padding: 50px;
+  
+
+}
+
+p{
+  
+    font-size: 48px;
+    font-weight: 700px;
+    /* line-height: 56px; */
+    color: white;
+}
+span{
+    position: relative;
+    top: -30px;
+    left: 5px;
+ 
+    font-size: 32px;
+    font-weight: 700px;
+    /* line-height: 56px; */
+    color: white;
+  
+}
+span::before{
+    content: "________        ";
+    padding: 20px;
+}  
+span::after{
+    content: "        ________";
+    padding: 20px;
+} 
+i{
+    top: 22px;
+    left:132px;
+ 
+
+}
+

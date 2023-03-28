@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #2C3E50;
+    width: 100%;
+}
+.texts{
+    font-size: 28px;
+    font-weight: 700px;
+
+color: rgb(255, 255, 255);
+margin-top: 10px;
+
+}
+a{
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700px;
+    text-decoration: none;
+
+color: rgb(255, 255, 255);
+
+}
+a:hover{
+  color:#1ABC9C;
+}
+/* ul{
+    list-style-type: none;
+} */
+.active-link{
+    background-color: #1ABC9C;
+    border-radius: 10px;
+    
+}
+.active-link:hover{
+    color: white;
+}
